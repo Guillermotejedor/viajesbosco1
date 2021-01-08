@@ -1,0 +1,214 @@
+#Principal{
+			background-image:url(fondo.jpg);
+			background-size: 100% 100%;
+		
+}
+h1{
+	text-align:center;
+	color: White;
+	padding: 250px 3px 15px 5px;
+	font-family:"Spurce Sans Pro";
+	font-weight: bold;
+	font-size: 300%
+  
+}
+h2{
+	text-align:center;
+	color: White;
+	width:100%;
+	font-family:"merryweather";
+	
+  
+}
+h3{
+	text-align:center;
+	font-weight: bold;
+	font-size: 200%;
+	padding-top: 0px;
+}
+h4{
+	text-align:center;
+	font-weight: 700;
+	font-family:"Source Code Sans";
+	
+	
+}
+label{
+	font-family:"Source Code Sans";
+	padding-left:150px;
+}
+p{
+	text-align:center;
+	font-style: italic;
+}
+
+#Imagen{
+	
+	display:block;
+	margin:auto;
+	padding-bottom: 50px;
+
+}
+#Imagen:hover{
+       background-image: url("abajo-2.png");
+	   display:block;
+	   margin:auto;
+	   padding-bottom: 50px;
+}
+#Imagen1{
+	
+	display:block;
+	margin:auto;	   
+	width: 70%;
+    margin-left:150px;
+	margin-right:200px;
+	
+}
+
+#menu{
+        width: 70%;
+        height:50px;
+        margin-left:200px;
+		margin-right:200px;
+		background-color:#474b50;
+		position: sticky;
+		top:0px;
+      
+}
+#menu-ul{
+		
+        width: 100%;
+        float: left;
+        list-style-type:none;
+		display:block;
+		margin:auto;
+}
+
+#menu-ul li{  
+			float:left;
+			margin:0 0 0 3px;
+			padding:15px 15px 15px 15px;
+			
+			
+				
+   }
+   
+A {
+	
+	text-decoration: none;
+	color: White;
+} 
+
+#paginaprincipal{
+	    width: 70%;
+        margin-left:200px;
+		margin-right:200px;
+		background-color:White;
+}
+#divindia{
+		display:inline-block;
+		margin-left:150px;
+		float:left;
+		width: 300px;
+}
+
+#india{
+	float:left;
+	width: 300px;
+	height:200px;
+
+}
+#divmexico{
+		display:inline-block;
+		width: 300px;
+		margin-right:125px;
+		float:right;
+}
+
+#mexico{
+	float:right;
+	width: 300px;
+	height:200px;
+
+}
+#divnuevazelanda{
+		display:inline-block;
+		margin-left:150px;
+		float:left;
+		width: 300px;
+}
+
+#nuevazelanda{
+	float:left;
+	width: 300px;
+	height:200px;
+
+}
+
+#divperu{
+		display:inline-block;
+		width: 300px;
+		margin-right:125px;		
+		float:right;
+}
+
+#peru{
+	float:right;
+	width: 300px;
+	height:200px;
+
+}
+#divislandia{
+		display:inline-block;
+		margin-left:150px;
+		float:left;
+		width: 300px;
+}
+
+#islandia{
+	float:left;
+	width: 300px;
+	height:200px;
+
+}
+#divjapon{
+		display:inline-block;
+		width: 300px;
+		margin-right:125px;		
+		float:right;
+}
+
+#japon{
+	float:right;
+	width: 300px;
+	height:200px;
+
+}
+
+#enviodatos{
+		width: 70%;
+        margin-left:200px;
+		margin-right:200px;
+		background-color:#cad1ce;
+	
+}
+
+ input[type=text] {
+	width:65%;
+	margin-left:150px;
+	margin-right:200px;
+	display:flex;
+	flex-direction:column;
+	padding: 15px 5px;
+  	background-color:#cad1ce;
+
+}
+
+fieldset{
+	width:65%;
+	margin-left:150px;
+	margin-right:200px;
+	padding-left: 15px;
+	text-indent: -15px;
+}
+
